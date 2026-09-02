@@ -934,4 +934,3 @@ We also acknowledge the Infosys Springboard team for providing the learning and 
 
 > **From raw franchise data to grounded decisions — one intelligent copilot for the entire franchise network.**
 
-**Infosys Springboard Internship — Batch 1**
