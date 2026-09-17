@@ -43,17 +43,7 @@ FranchiseOps AI was developed as part of the **Infosys Springboard Internship �
 **Mentor:** `MOHAMEDSIPLI M`
 **Designation:** `Industry Mentor`
 
-### Team Members
 
-| Name                | Role / What They Built                                                        | GitHub        |
-| --------------------| ----------------------------------------------------------------------------- | ------------- |
-| `Akeeranandan`      | Team Lead & Full-Stack AI Developer — Authentication, Admin Dashboard, AI Agents, RAG Pipeline | `akeera1760`  |
-| `Muskan Patel`      | Inventory Intelligence & Demand Forecasting Agent                             | `muskanpatel98`|
-| `Tazreen Rehman`    | RAG Pipeline & Document Intelligence (Milestone 3)                            | `tasha24_ux`|
-| `Venkata Siva Reddy`| Workforce Intelligence & Outlet Revenue Analytics                             |   `shiva085A01`|
-
-
----
 
 # 🚀 Project Overview
 
